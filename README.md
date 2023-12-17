@@ -1,4 +1,5 @@
-## Hi there!👋🏻 /nI'm Orli.
+## Hi there!👋🏻 
+## I'm Orli.
 #### I’m a passionate iOS developer with the backgrounds of designing web and mobile, UIUX, user research, science, art and think in a creative and multidisciplinary way. 
 Active in clean, quality code, problem solving and acquiring new knowledge and also understand the importance of creating highly readable and easily maintainable source code. Always accept challenge and improve myself to stay up-to-date with the latest trends and technologies in the iOS development landscape.
 <!--
