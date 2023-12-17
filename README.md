@@ -3,7 +3,7 @@
 Active in clean, quality code, problem solving and acquiring new knowledge and also understand the importance of creating highly readable and easily maintainable source code. Always accept challenge and improve myself to stay up-to-date with the latest trends and technologies in the iOS development landscape.
 
 ## Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/orlihuangmobileengineer/)[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=F06B66&logo=gmail&logoColor=ffffff)](mailto:kelly912718@gmail.com?)[<img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" />](https://www.linkedin.com/in/orlihuangmobileengineer/)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/orlihuangmobileengineer/) [<img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" />](https://www.linkedin.com/in/orlihuangmobileengineer/) [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=F06B66&logo=gmail&logoColor=ffffff)](mailto:kelly912718@gmail.com?)
 
 
 <!--
