@@ -20,6 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/flaeNirfpDdtum1Hc4/giphy.gif" alt="My Giphy GIF" width="30px"> My Apps 
 
+<!--
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="display: flex; align-items: center;">
         <img src="https://raw.githubusercontent.com/cleopatra1314/Murmur/main/ImagesSource/MurmurIcon.png" width="40" height="40"/>  Murmur Wall
@@ -35,6 +36,12 @@
         </a>
     </div>
 </div>
+-->
+
+<img src="https://raw.githubusercontent.com/cleopatra1314/Murmur/main/ImagesSource/MurmurIcon.png" width="40" height="40"/>  Murmur Wall
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub_link-gray?style=flash&logo=github&logoColor=white&labelColor=black)](https://medium.com/@kelly912718)
+ [![App Store Badge](https://img.shields.io/badge/View_on_App_Store-gray?style=flash&logo=Apple&logoColor=white&labelColor=black)](https://medium.com/@kelly912718)
 
 
 <img src="https://raw.githubusercontent.com/cleopatra1314/Murmur/main/ImagesSource/gitHub1-1.png" width="550" />
