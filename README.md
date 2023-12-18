@@ -3,8 +3,8 @@
 
 - A Taiwanese iOS Developer with background in UIUX design
 - Currently in London
-- Motorcycle enthuiast, dreaming to ride cafe racer in UK🏍️
-- Tattooist as my interest
+- Motorcycle enthuiast, dreaming to ride cafe racer in UK 🏍️
+- Tattooist as my interest 👩🏻‍🎨
 
 
   
